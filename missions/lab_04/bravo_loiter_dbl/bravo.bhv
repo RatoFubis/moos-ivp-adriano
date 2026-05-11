@@ -1,0 +1,94 @@
+//--------    FILE: bravo.bhv   -------------
+
+initialize DEPLOY = false
+initialize RETURN = false
+initialize LOITER_REGION = west
+
+
+//----------------------------------------------
+Behavior = BHV_Loiter
+{
+  name      = loiter_west
+  pwt       = 100
+
+  condition = DEPLOY = true
+  condition = RETURN = false
+  condition = LOITER_REGION = west
+
+  duration = 150
+  duration_idle_decay = false
+  perpetual = true
+
+  endflag = LOITER_REGION = east
+
+  speed          = 2.5
+  clockwise      = false
+  acquire_dist   = 10
+  capture_radius = 5
+  slip_radius    = 15
+
+  polygon = format=radial, x=100, y=-75, radius=30, pts=8, snap=1
+
+  visual_hints = vertex_color=orange
+  visual_hints = edge_color=yellow
+  visual_hints = vertex_size=4
+  visual_hints = edge_size=1
+}
+
+
+//----------------------------------------------
+Behavior = BHV_Loiter
+{
+  name      = loiter_east
+  pwt       = 100
+
+  condition = DEPLOY = true
+  condition = RETURN = false
+  condition = LOITER_REGION = east
+
+  duration = 150
+  duration_idle_decay = false
+  perpetual = true
+
+  endflag = LOITER_REGION = west
+
+  speed          = 2.5
+  clockwise      = false
+  acquire_dist   = 10
+  capture_radius = 5
+  slip_radius    = 15
+
+  polygon = format=radial, x=160, y=-50, radius=20, pts=8, snap=1
+
+  visual_hints = vertex_color=cyan
+  visual_hints = edge_color=white
+  visual_hints = vertex_size=4
+  visual_hints = edge_size=1
+}
+
+
+//----------------------------------------------
+Behavior = BHV_Waypoint
+{
+  name      = waypt_return
+  pwt       = 100
+
+  condition = DEPLOY = true
+  condition = RETURN = true
+
+  perpetual = true
+
+  endflag   = RETURN = false
+  endflag   = DEPLOY = false
+  endflag   = MISSION = complete
+
+  speed          = 2.0
+  capture_radius = 3.0
+  slip_radius    = 10.0
+
+  points = 0,0
+
+  visual_hints = nextpt_color=red
+  visual_hints = vertex_color=white
+  visual_hints = edge_color=red
+}
