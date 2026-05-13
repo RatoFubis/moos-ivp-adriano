@@ -194,6 +194,7 @@ Behavior = BHV_ConstantDepth
 
   condition = DEPLOY = true
   condition = SURFACE = true
+  condition = RETURN = false
 
   depth = 0
   duration = no-time-limit
@@ -208,18 +209,38 @@ Behavior = BHV_ConstantSpeed
 
   condition = DEPLOY = true
   condition = SURFACE = true
+  condition = RETURN = false
+
   speed     = 0
   duration = no-time-limit
 
 }
 
-// 5. Segurar a direção (Evitar erros do Helm a 0 m/s)
+// Hold Direction
 Behavior = BHV_ConstantHeading
 {
   name      = heading_surface
   pwt       = 100
+
   condition = SURFACE = true
+  condition = RETURN = false
+
   heading   = 0
   duration  = no-time-limit
+}
+
+//------------------------------------------
+// Return when surfacing
+
+Behavior = BHV_Timer
+{
+  name = cancel_surface_on_return
+
+  condition = RETURN = true
+
+  duration = 1
+  perpetual = true
+
+  endflag = SURFACE = false
 }
 

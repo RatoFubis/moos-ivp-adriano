@@ -237,7 +237,7 @@ Behavior = BHV_Timer
   name      = trigger_return
 
   condition = DEPLOY = true
-  condition = ODOMETRY_DIST_AT_DEPTH >= 200
+  condition = ODOMETRY_DIST_AT_DEPTH >= $[DIST_THRESH]
 
   duration  = 1
 
