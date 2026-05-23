@@ -1,0 +1,2 @@
+x=0,y=0,heading=180
+x=80,y=0,heading=180
