@@ -1,0 +1,403 @@
+VISIT_POINT = firstpoint
+
+var=x1, rand, -25, 200
+var=y1, rand, -175, -25
+VISIT_POINT = x=$[x1],y=$[y1],id=1
+
+var=x2, rand, -25, 200
+var=y2, rand, -175, -25
+VISIT_POINT = x=$[x2],y=$[y2],id=2
+
+var=x3, rand, -25, 200
+var=y3, rand, -175, -25
+VISIT_POINT = x=$[x3],y=$[y3],id=3
+
+var=x4, rand, -25, 200
+var=y4, rand, -175, -25
+VISIT_POINT = x=$[x4],y=$[y4],id=4
+
+var=x5, rand, -25, 200
+var=y5, rand, -175, -25
+VISIT_POINT = x=$[x5],y=$[y5],id=5
+
+var=x6, rand, -25, 200
+var=y6, rand, -175, -25
+VISIT_POINT = x=$[x6],y=$[y6],id=6
+
+var=x7, rand, -25, 200
+var=y7, rand, -175, -25
+VISIT_POINT = x=$[x7],y=$[y7],id=7
+
+var=x8, rand, -25, 200
+var=y8, rand, -175, -25
+VISIT_POINT = x=$[x8],y=$[y8],id=8
+
+var=x9, rand, -25, 200
+var=y9, rand, -175, -25
+VISIT_POINT = x=$[x9],y=$[y9],id=9
+
+var=x10, rand, -25, 200
+var=y10, rand, -175, -25
+VISIT_POINT = x=$[x10],y=$[y10],id=10
+
+var=x11, rand, -25, 200
+var=y11, rand, -175, -25
+VISIT_POINT = x=$[x11],y=$[y11],id=11
+
+var=x12, rand, -25, 200
+var=y12, rand, -175, -25
+VISIT_POINT = x=$[x12],y=$[y12],id=12
+
+var=x13, rand, -25, 200
+var=y13, rand, -175, -25
+VISIT_POINT = x=$[x13],y=$[y13],id=13
+
+var=x14, rand, -25, 200
+var=y14, rand, -175, -25
+VISIT_POINT = x=$[x14],y=$[y14],id=14
+
+var=x15, rand, -25, 200
+var=y15, rand, -175, -25
+VISIT_POINT = x=$[x15],y=$[y15],id=15
+
+var=x16, rand, -25, 200
+var=y16, rand, -175, -25
+VISIT_POINT = x=$[x16],y=$[y16],id=16
+
+var=x17, rand, -25, 200
+var=y17, rand, -175, -25
+VISIT_POINT = x=$[x17],y=$[y17],id=17
+
+var=x18, rand, -25, 200
+var=y18, rand, -175, -25
+VISIT_POINT = x=$[x18],y=$[y18],id=18
+
+var=x19, rand, -25, 200
+var=y19, rand, -175, -25
+VISIT_POINT = x=$[x19],y=$[y19],id=19
+
+var=x20, rand, -25, 200
+var=y20, rand, -175, -25
+VISIT_POINT = x=$[x20],y=$[y20],id=20
+
+var=x21, rand, -25, 200
+var=y21, rand, -175, -25
+VISIT_POINT = x=$[x21],y=$[y21],id=21
+
+var=x22, rand, -25, 200
+var=y22, rand, -175, -25
+VISIT_POINT = x=$[x22],y=$[y22],id=22
+
+var=x23, rand, -25, 200
+var=y23, rand, -175, -25
+VISIT_POINT = x=$[x23],y=$[y23],id=23
+
+var=x24, rand, -25, 200
+var=y24, rand, -175, -25
+VISIT_POINT = x=$[x24],y=$[y24],id=24
+
+var=x25, rand, -25, 200
+var=y25, rand, -175, -25
+VISIT_POINT = x=$[x25],y=$[y25],id=25
+
+var=x26, rand, -25, 200
+var=y26, rand, -175, -25
+VISIT_POINT = x=$[x26],y=$[y26],id=26
+
+var=x27, rand, -25, 200
+var=y27, rand, -175, -25
+VISIT_POINT = x=$[x27],y=$[y27],id=27
+
+var=x28, rand, -25, 200
+var=y28, rand, -175, -25
+VISIT_POINT = x=$[x28],y=$[y28],id=28
+
+var=x29, rand, -25, 200
+var=y29, rand, -175, -25
+VISIT_POINT = x=$[x29],y=$[y29],id=29
+
+var=x30, rand, -25, 200
+var=y30, rand, -175, -25
+VISIT_POINT = x=$[x30],y=$[y30],id=30
+
+var=x31, rand, -25, 200
+var=y31, rand, -175, -25
+VISIT_POINT = x=$[x31],y=$[y31],id=31
+
+var=x32, rand, -25, 200
+var=y32, rand, -175, -25
+VISIT_POINT = x=$[x32],y=$[y32],id=32
+
+var=x33, rand, -25, 200
+var=y33, rand, -175, -25
+VISIT_POINT = x=$[x33],y=$[y33],id=33
+
+var=x34, rand, -25, 200
+var=y34, rand, -175, -25
+VISIT_POINT = x=$[x34],y=$[y34],id=34
+
+var=x35, rand, -25, 200
+var=y35, rand, -175, -25
+VISIT_POINT = x=$[x35],y=$[y35],id=35
+
+var=x36, rand, -25, 200
+var=y36, rand, -175, -25
+VISIT_POINT = x=$[x36],y=$[y36],id=36
+
+var=x37, rand, -25, 200
+var=y37, rand, -175, -25
+VISIT_POINT = x=$[x37],y=$[y37],id=37
+
+var=x38, rand, -25, 200
+var=y38, rand, -175, -25
+VISIT_POINT = x=$[x38],y=$[y38],id=38
+
+var=x39, rand, -25, 200
+var=y39, rand, -175, -25
+VISIT_POINT = x=$[x39],y=$[y39],id=39
+
+var=x40, rand, -25, 200
+var=y40, rand, -175, -25
+VISIT_POINT = x=$[x40],y=$[y40],id=40
+
+var=x41, rand, -25, 200
+var=y41, rand, -175, -25
+VISIT_POINT = x=$[x41],y=$[y41],id=41
+
+var=x42, rand, -25, 200
+var=y42, rand, -175, -25
+VISIT_POINT = x=$[x42],y=$[y42],id=42
+
+var=x43, rand, -25, 200
+var=y43, rand, -175, -25
+VISIT_POINT = x=$[x43],y=$[y43],id=43
+
+var=x44, rand, -25, 200
+var=y44, rand, -175, -25
+VISIT_POINT = x=$[x44],y=$[y44],id=44
+
+var=x45, rand, -25, 200
+var=y45, rand, -175, -25
+VISIT_POINT = x=$[x45],y=$[y45],id=45
+
+var=x46, rand, -25, 200
+var=y46, rand, -175, -25
+VISIT_POINT = x=$[x46],y=$[y46],id=46
+
+var=x47, rand, -25, 200
+var=y47, rand, -175, -25
+VISIT_POINT = x=$[x47],y=$[y47],id=47
+
+var=x48, rand, -25, 200
+var=y48, rand, -175, -25
+VISIT_POINT = x=$[x48],y=$[y48],id=48
+
+var=x49, rand, -25, 200
+var=y49, rand, -175, -25
+VISIT_POINT = x=$[x49],y=$[y49],id=49
+
+var=x50, rand, -25, 200
+var=y50, rand, -175, -25
+VISIT_POINT = x=$[x50],y=$[y50],id=50
+
+var=x51, rand, -25, 200
+var=y51, rand, -175, -25
+VISIT_POINT = x=$[x51],y=$[y51],id=51
+
+var=x52, rand, -25, 200
+var=y52, rand, -175, -25
+VISIT_POINT = x=$[x52],y=$[y52],id=52
+
+var=x53, rand, -25, 200
+var=y53, rand, -175, -25
+VISIT_POINT = x=$[x53],y=$[y53],id=53
+
+var=x54, rand, -25, 200
+var=y54, rand, -175, -25
+VISIT_POINT = x=$[x54],y=$[y54],id=54
+
+var=x55, rand, -25, 200
+var=y55, rand, -175, -25
+VISIT_POINT = x=$[x55],y=$[y55],id=55
+
+var=x56, rand, -25, 200
+var=y56, rand, -175, -25
+VISIT_POINT = x=$[x56],y=$[y56],id=56
+
+var=x57, rand, -25, 200
+var=y57, rand, -175, -25
+VISIT_POINT = x=$[x57],y=$[y57],id=57
+
+var=x58, rand, -25, 200
+var=y58, rand, -175, -25
+VISIT_POINT = x=$[x58],y=$[y58],id=58
+
+var=x59, rand, -25, 200
+var=y59, rand, -175, -25
+VISIT_POINT = x=$[x59],y=$[y59],id=59
+
+var=x60, rand, -25, 200
+var=y60, rand, -175, -25
+VISIT_POINT = x=$[x60],y=$[y60],id=60
+
+var=x61, rand, -25, 200
+var=y61, rand, -175, -25
+VISIT_POINT = x=$[x61],y=$[y61],id=61
+
+var=x62, rand, -25, 200
+var=y62, rand, -175, -25
+VISIT_POINT = x=$[x62],y=$[y62],id=62
+
+var=x63, rand, -25, 200
+var=y63, rand, -175, -25
+VISIT_POINT = x=$[x63],y=$[y63],id=63
+
+var=x64, rand, -25, 200
+var=y64, rand, -175, -25
+VISIT_POINT = x=$[x64],y=$[y64],id=64
+
+var=x65, rand, -25, 200
+var=y65, rand, -175, -25
+VISIT_POINT = x=$[x65],y=$[y65],id=65
+
+var=x66, rand, -25, 200
+var=y66, rand, -175, -25
+VISIT_POINT = x=$[x66],y=$[y66],id=66
+
+var=x67, rand, -25, 200
+var=y67, rand, -175, -25
+VISIT_POINT = x=$[x67],y=$[y67],id=67
+
+var=x68, rand, -25, 200
+var=y68, rand, -175, -25
+VISIT_POINT = x=$[x68],y=$[y68],id=68
+
+var=x69, rand, -25, 200
+var=y69, rand, -175, -25
+VISIT_POINT = x=$[x69],y=$[y69],id=69
+
+var=x70, rand, -25, 200
+var=y70, rand, -175, -25
+VISIT_POINT = x=$[x70],y=$[y70],id=70
+
+var=x71, rand, -25, 200
+var=y71, rand, -175, -25
+VISIT_POINT = x=$[x71],y=$[y71],id=71
+
+var=x72, rand, -25, 200
+var=y72, rand, -175, -25
+VISIT_POINT = x=$[x72],y=$[y72],id=72
+
+var=x73, rand, -25, 200
+var=y73, rand, -175, -25
+VISIT_POINT = x=$[x73],y=$[y73],id=73
+
+var=x74, rand, -25, 200
+var=y74, rand, -175, -25
+VISIT_POINT = x=$[x74],y=$[y74],id=74
+
+var=x75, rand, -25, 200
+var=y75, rand, -175, -25
+VISIT_POINT = x=$[x75],y=$[y75],id=75
+
+var=x76, rand, -25, 200
+var=y76, rand, -175, -25
+VISIT_POINT = x=$[x76],y=$[y76],id=76
+
+var=x77, rand, -25, 200
+var=y77, rand, -175, -25
+VISIT_POINT = x=$[x77],y=$[y77],id=77
+
+var=x78, rand, -25, 200
+var=y78, rand, -175, -25
+VISIT_POINT = x=$[x78],y=$[y78],id=78
+
+var=x79, rand, -25, 200
+var=y79, rand, -175, -25
+VISIT_POINT = x=$[x79],y=$[y79],id=79
+
+var=x80, rand, -25, 200
+var=y80, rand, -175, -25
+VISIT_POINT = x=$[x80],y=$[y80],id=80
+
+var=x81, rand, -25, 200
+var=y81, rand, -175, -25
+VISIT_POINT = x=$[x81],y=$[y81],id=81
+
+var=x82, rand, -25, 200
+var=y82, rand, -175, -25
+VISIT_POINT = x=$[x82],y=$[y82],id=82
+
+var=x83, rand, -25, 200
+var=y83, rand, -175, -25
+VISIT_POINT = x=$[x83],y=$[y83],id=83
+
+var=x84, rand, -25, 200
+var=y84, rand, -175, -25
+VISIT_POINT = x=$[x84],y=$[y84],id=84
+
+var=x85, rand, -25, 200
+var=y85, rand, -175, -25
+VISIT_POINT = x=$[x85],y=$[y85],id=85
+
+var=x86, rand, -25, 200
+var=y86, rand, -175, -25
+VISIT_POINT = x=$[x86],y=$[y86],id=86
+
+var=x87, rand, -25, 200
+var=y87, rand, -175, -25
+VISIT_POINT = x=$[x87],y=$[y87],id=87
+
+var=x88, rand, -25, 200
+var=y88, rand, -175, -25
+VISIT_POINT = x=$[x88],y=$[y88],id=88
+
+var=x89, rand, -25, 200
+var=y89, rand, -175, -25
+VISIT_POINT = x=$[x89],y=$[y89],id=89
+
+var=x90, rand, -25, 200
+var=y90, rand, -175, -25
+VISIT_POINT = x=$[x90],y=$[y90],id=90
+
+var=x91, rand, -25, 200
+var=y91, rand, -175, -25
+VISIT_POINT = x=$[x91],y=$[y91],id=91
+
+var=x92, rand, -25, 200
+var=y92, rand, -175, -25
+VISIT_POINT = x=$[x92],y=$[y92],id=92
+
+var=x93, rand, -25, 200
+var=y93, rand, -175, -25
+VISIT_POINT = x=$[x93],y=$[y93],id=93
+
+var=x94, rand, -25, 200
+var=y94, rand, -175, -25
+VISIT_POINT = x=$[x94],y=$[y94],id=94
+
+var=x95, rand, -25, 200
+var=y95, rand, -175, -25
+VISIT_POINT = x=$[x95],y=$[y95],id=95
+
+var=x96, rand, -25, 200
+var=y96, rand, -175, -25
+VISIT_POINT = x=$[x96],y=$[y96],id=96
+
+var=x97, rand, -25, 200
+var=y97, rand, -175, -25
+VISIT_POINT = x=$[x97],y=$[y97],id=97
+
+var=x98, rand, -25, 200
+var=y98, rand, -175, -25
+VISIT_POINT = x=$[x98],y=$[y98],id=98
+
+var=x99, rand, -25, 200
+var=y99, rand, -175, -25
+VISIT_POINT = x=$[x99],y=$[y99],id=99
+
+var=x100, rand, -25, 200
+var=y100, rand, -175, -25
+VISIT_POINT = x=$[x100],y=$[y100],id=100
+
+VISIT_POINT = lastpoint
